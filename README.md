@@ -174,6 +174,8 @@ Common issues and fixes:
 | Streamlit doesn’t display plots      | Not using `st.pyplot()`    | Uncomment `st.pyplot()` after visualization                   |
 
 
-
+Team members
+Likalani shadrack- rebbrownlikalani87@gmail.com
+Lwambululo Naomi-NaomieLwambululo@gmail.com
 
 
